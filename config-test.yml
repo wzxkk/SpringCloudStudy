@@ -1,1 +1,2 @@
-mykey:kek
+config:
+  info: this is my first config
